@@ -2,7 +2,7 @@
     "name": "spacecow/lima-mvc-starter",
     "description": "Starter template for Lima MVC based projects",
     "type": "project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "require": {
         "spacecow/lima-mvc": "^1.0"
