@@ -6,5 +6,10 @@
     "license": "MIT",
     "require": {
         "spacecow/lima-mvc": "^1.0"
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "php -r \"copy('.env.sample', '.env');\""
+        ]
     }
 }
